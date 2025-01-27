@@ -1,8 +1,10 @@
 # Table of contents
 
+* [👨‍💻 Whoami](README.md)
+
 ## 🗺️ Active Directory
 
-* [Active Directory Enumeration](README.md)
+* [Active Directory Enumeration](<README (1).md>)
 * [AD Reconnaissance](active-directory/ad-reconnaissance/README.md)
   * [LDAP](active-directory/ad-reconnaissance/ldap.md)
 * [Movement](active-directory/movement/README.md)
