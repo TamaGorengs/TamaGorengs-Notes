@@ -17,6 +17,7 @@
     * [Dumping](active-directory/movement/credential/dumping/README.md)
       * [DCSync](active-directory/movement/credential/dumping/dcsync.md)
   * [WMI and WinRM](active-directory/movement/wmi-and-winrm.md)
+* [Active Directory Certificate Services (ADCS)](active-directory/active-directory-certificate-services-adcs.md)
 
 ## 🪟 Windows
 
@@ -37,6 +38,7 @@
 ## 🕸️ Web Application
 
 * [SQL Injection](web-application/sql-injection.md)
+* [Cross-Site Scripting (XSS)](web-application/cross-site-scripting-xss.md)
 
 ## Group 1
 
