@@ -45,3 +45,7 @@
 * [Client-Side Attacks](group-1/client-side-attacks/README.md)
   * [Windows Library Files](group-1/client-side-attacks/windows-library-files.md)
   * [Exploiting Microsoft Office](group-1/client-side-attacks/exploiting-microsoft-office.md)
+
+## Thick Client
+
+* [Thick Client Pentest](thick-client/thick-client-pentest.md)
