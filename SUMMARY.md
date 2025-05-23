@@ -49,3 +49,4 @@
 ## Thick Client
 
 * [Thick Client Pentest](thick-client/thick-client-pentest.md)
+* [Thick Client Pentest Methodology](thick-client/thick-client-pentest-methodology.md)
